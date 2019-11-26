@@ -83,7 +83,8 @@ int resolverPorta(int tipo, int x, int y){
 }
 int tabelaVerdade(int nInput){
 	char vet[10];
-	int entrada, j, l=0;
+	int entrada;
+    int j, l=0;
     for(entrada = 0; entrada < (pow(2, nInput)); entrada++){
         vet[0] = (entrada & 1  )?1:0;      
         vet[1] = (entrada & 2  )?1:0;      
@@ -103,7 +104,8 @@ int tabelaVerdade(int nInput){
     }
 }
 int iniciarDados(int nEntrada, int nConector, int nPorta, int nLinha){
-	int k, l, m, n, o, coluna=0;
+	int k, l, m, n, o;
+    int coluna = 0;
 
 	for(k = 0; k < nConector; k++){
 		plug[k].valor = 5;
@@ -127,25 +129,43 @@ int iniciarDados(int nEntrada, int nConector, int nPorta, int nLinha){
 	}	return 0;
 }
 int imprimirTela(int nEntrada, int nSaida){
-    int p, q, r, s, t, u, z;
+    int p, q, r, s, t, u, x, y, z;
     char espaco[8]="";
     char vazio[8]="";
     int tamanho = 0;
       
-    for(int x = 0; x < nEntrada; x++){
+    for(x = 0; x < nEntrada; x++){
         tamanho += strlen(entrada[x].representacao);
     }
-    for(int y = 0; y < nSaida; y++){
+    for(y = 0; y < nSaida; y++){
         tamanho += strlen(saida[y].representacao);
     }
 
     if(n.Vez == 0){
-        for(p = tamanho + nEntrada*3 + nSaida*3 + 3; p > 0; p--){printf("-");}printf("\n");printf("Entrada");
-        for(z = 0; z < (tamanho + nEntrada*3 + nSaida*3 - 9); z++){printf(" ");}printf("Saida\n");
-        for(p = tamanho + nEntrada*3 + nSaida*3 + 3; p > 0; p--){printf("-");}printf("\n");
-        for(q = 0; q < nEntrada; q++){printf("| %s ", entrada[q].representacao);}printf("|-");
-        for(r = 0; r < nSaida; r++){printf("| %s ", saida[r].representacao);}printf("|\n");
-        for(s = tamanho + nEntrada*3 + nSaida*3 + 3; s > 0; s--){printf("-");}printf("\n");
+        for(p = tamanho + nEntrada*3 + nSaida*3 + 3; p > 0; p--){
+            printf("-");
+        }
+        printf("\n"); printf("Entrada");
+        for(z = 0; z < (tamanho + nEntrada*3 + nSaida*3 - 9); z++){
+            printf(" ");
+        }
+        printf("Saida\n");
+        for(p = tamanho + nEntrada*3 + nSaida*3 + 3; p > 0; p--){
+            printf("-");
+        }
+        printf("\n");
+        for(q = 0; q < nEntrada; q++){
+            printf("| %s ", entrada[q].representacao);
+        }
+        printf("|-");
+        for(r = 0; r < nSaida; r++){
+            printf("| %s ", saida[r].representacao);
+        }
+        printf("|\n");
+        for(s = tamanho + nEntrada*3 + nSaida*3 + 3; s > 0; s--){
+            printf("-");
+        }
+        printf("\n");
     }
 
     for(t = 0; t < nEntrada; t++){
