@@ -12,3 +12,10 @@ lógicas.
 ### Manual 
 
 Para download do código clique [aqui](https://github.com/LuanDHenrique/DCA_Projeto/blob/master/projeto_final.c).
+
+Para compilar e executar o código foi utilizado o GCC, os
+comandos para isso foram os seguintes:
+
+####Windows:
+1. 'gcc nome_do_arquivo.c -o ex'
+2. '.\ex'
