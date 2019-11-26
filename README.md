@@ -13,13 +13,15 @@ lógicas.
 
 Para download do código clique [aqui](https://github.com/LuanDHenrique/DCA_Projeto/blob/master/projeto_final.c).
 
-Para compilar e executar o código foi utilizado o GCC, os
-comandos para isso foram os seguintes:
+Para compilar e executar o código foi utilizado o GCC, antes
+de tudo, verifique se você está no diretório na qual os arquivos
+estão localizados, caso não, se direcione ao diretório, os
+comandos utilizados foram os seguintes:
 
 #### Windows:
-1. `gcc nome_do_arquivo.c -o ex`
-2. `.\ex`
+1. `gcc nome_do_arquivo.c -o nome_do_arquivo`
+2. `.\nome_do_arquivo`
 
 #### Linux:
-1.
-2.
+1. `gcc nome_do_arquivo.c -o nome_do_arquivo`
+2. `./nome_do_arquivo`
