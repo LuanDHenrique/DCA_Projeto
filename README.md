@@ -16,6 +16,10 @@ Para download do código clique [aqui](https://github.com/LuanDHenrique/DCA_Proj
 Para compilar e executar o código foi utilizado o GCC, os
 comandos para isso foram os seguintes:
 
-####Windows:
+#### Windows:
 1. `gcc nome_do_arquivo.c -o ex`
 2. `.\ex`
+
+#### Linux:
+1.
+2.
