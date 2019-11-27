@@ -62,7 +62,8 @@ circuito está localizado.
 |OUTPUT 7 S|
 
 2.Compilando e executando o código
-![compilando](https://ibb.co/LJLm0RR "Compilando")
+![compilando][logo]
+[logo]: C:\Users\Luan Henrique\Desktop\Alg e Logica em Programação\Projeto\compilando.png "Compilando"
 
 
 
