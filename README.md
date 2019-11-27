@@ -47,8 +47,9 @@ Após executar o arquivo com o código, o programa solicitará que
 você insira o local na qual o arquivo com as especificações do
 circuito está localizado.
 
-###Exemplo:
-1.**Arquivo**
+### Exemplo:
+1. **Arquivo**
+
 `CIRCUIT Exemplo
 INPUT 1 A
 INPUT 2 B
@@ -59,7 +60,5 @@ XOR 4 5 6
 AND 5 6 7
 OUTPUT 7 S`
 
-2.Compilando e executando o código
-![compilando](
 
 
