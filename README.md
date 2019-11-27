@@ -75,6 +75,6 @@ cada uma das possibilidades.
 
 ![alt text](https://imgur.com/rNQcuNY "Compilando")
 
-<img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
+<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/executando.PNG" alt="executando">
 
 
