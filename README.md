@@ -62,7 +62,7 @@ circuito está localizado.
 |OUTPUT 7 S|
 
 2.Compilando e executando o código
-![compilando](https://drive.google.com/drive/u/0/folders/1QfA-_ZKy0KxSqykHmQAH6l1b8fUpIyJx "compilando")
+![compilando](https://drive.google.com/file/d/1Uc64LZmA5R6SI6F1eYUnujCzll2Ysd7B/view "compilando")
 
 
 
