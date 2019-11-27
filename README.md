@@ -82,6 +82,9 @@ As figuras a seguir mostram o passo a passo para compilar e executar o código.
 
 <img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/compilando.PNG" alt="compilando">
 
+Após inserir o diretório do arquivo teste, o programa imprimi na tela a tabela-verdade do circuito,
+com todas as combinações possíveis para o número de entradas e os resultados das saídas.
+
 <img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/executando.PNG" alt="executando">
 
 
