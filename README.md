@@ -62,7 +62,6 @@ circuito está localizado.
 |OUTPUT 7 S|
 
 2.Compilando e executando o código
-![compilando](https://drive.google.com/file/d/1Uc64LZmA5R6SI6F1eYUnujCzll2Ysd7B/view "compilando")
-
+<img src="C:\Users\Luan Henrique\Desktop\compilando.png" alt="compilando" style="max-width:100%;">
 
 
