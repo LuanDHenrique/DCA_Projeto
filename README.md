@@ -21,13 +21,13 @@ No começo da linha deverá ter um identificador, esse
 identificador precisa estar seguido de informações referentes
 ao mesmo.
 
-|Identificador            |Descrição                                 |
-|-------------------------|:----------------------------------------:|
-|CIRCUIT id               |Descritor do circuito com nome id(literal)| 
-|PORTA LÓGICA N1 N2 N3    |Tipo da porta (AND, OR, NAND, NOR, XOR), os dois primeiros números são referentes aos nós que as entradas estão ligadas, e o ultimo número ao nó da saída |
-|PORTA LÓGICA N1 N2       |Porta NOT, primeiro número é referente ao nó de entrada, e o segundo ao nó de saída |
-|INPUT N1 id              |Entrada do circuito, número referente ao nó de entrada e id(literal) |
-|OUTPUT N1 id             |Saída do circuito, número referente ao nó de saída e id(literal) |
+|Identificador                     |Descrição                                 |
+|----------------------------------|:----------------------------------------:|
+|CIRCUIT id                        |Descritor do circuito com nome id(literal)| 
+|PORTA LÓGICA N1 N2 N3             |Tipo da porta (AND, OR, NAND, NOR, XOR), os dois primeiros números são referentes aos nós que as entradas estão ligadas, e o ultimo número ao nó da saída |
+|PORTA LÓGICA N1 N2                |Porta NOT, primeiro número é referente ao nó de entrada, e o segundo ao nó de saída |
+|INPUT N1 id                       |Entrada do circuito, número referente ao nó de entrada e id(literal) |
+|OUTPUT N1 id                      |Saída do circuito, número referente ao nó de saída e id(literal) |
 
 
 Para compilar e executar o código foi utilizado o GCC, antes
@@ -46,6 +46,7 @@ comandos utilizados foram os seguintes:
 Após executar o arquivo com o código, o programa solicitará que
 você insira o local na qual o arquivo com as especificações do
 circuito está localizado.
+
 Depois de adicionado o arquivo, ele será lido pelo programa que 
 em sequida imprimi na tela a tabela-verdade com a solução para 
 cada uma das possibilidades.
@@ -65,10 +66,12 @@ cada uma das possibilidades.
 |OUTPUT 7 S|
 
 2.**Circuito Exemplo**
+
 <img src="C:\Users\Luan Henrique\Desktop\Circuito_Exemplo.jpeg" alt="Exemplo">
 
 
 3.Compilando e executando o código:
+
 <img src="C:\Users\Luan Henrique\Desktop\compilando.png" alt="compilando">
 
 <img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
