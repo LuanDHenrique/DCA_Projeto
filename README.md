@@ -61,10 +61,14 @@ circuito está localizado.
 |AND 5 6 7|
 |OUTPUT 7 S|
 
-2.Compilando e executando o código:
-<img src="C:/Users/Luan Henrique/Desktop/compilando.png" alt="compilando">
+2.**Circuito Exemplo**
+<img src="C:/Users/Luan Henrique/Desktop/Circuito_Exemplo.jpeg" alt="Exemplo"> ==$0
 
-<img src="C:/Users/Luan Henrique/Desktop/executando.png" alt="executando">
+
+3.Compilando e executando o código:
+<img src="C:/Users/Luan Henrique/Desktop/compilando.png" alt="compilando"> ==$0
+
+<img src="C:/Users/Luan Henrique/Desktop/executando.png" alt="executando"> ==$0
 
 
 
