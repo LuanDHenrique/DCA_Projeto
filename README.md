@@ -31,6 +31,9 @@ ao mesmo.
 |OUTPUT N1 id                      |Saída do circuito, número referente ao nó de saída e id(literal) |
 
 
+_**OBS:** Para o arquivo ser lido corretamente, os identificadores devem estar escritos com letra maiúscula, 
+seguindo exatamente como o modelo dado._    
+
 Para compilar e executar o código foi utilizado o GCC, antes
 de tudo, verifique se você está no diretório na qual os arquivos
 estão localizados, caso não, se direcione ao diretório, os
@@ -68,12 +71,13 @@ cada uma das possibilidades.
 
 2.**Circuito Exemplo**
 
-<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/Circuito_Exemplo.jpeg" alt="Exemplo">
+<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/d79b21e72adae94275b48873f8036d4d2cd4f819/Circuito_Exemplo.jpeg" alt="Exemplo">
 
 Circuito utilizado como exemplo para teste do projeto.
 
 
-3.Compilando e executando o código:
+
+3.**Compilando e executando o código:**
 
 <img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/compilando.PNG" alt="compilando">
 
