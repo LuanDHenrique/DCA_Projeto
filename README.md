@@ -24,15 +24,10 @@ ao mesmo.
 |Identificador            |Descrição                                 |
 |-------------------------|:----------------------------------------:|
 |CIRCUIT id               |Descritor do circuito com nome id(literal)| 
-|PORTA LÓGICA N1 N2 N3    |Tipo da porta (AND, OR, NAND, NOR, XOR), os 
-dois primeiros números são referentes aos nós que as entradas estão 
-ligadas, e o ultimo número ao nó da saída                            |
-|PORTA LÓGICA N1 N2       |Porta NOT, primeiro número é referente ao 
-nó de entrada, e o segundo ao nó de saída                            |
-|INPUT N1 id              |Entrada do circuito, número referente ao 
-nó de entrada e id(literal)                                          |
-|OUTPUT N1 id             |Saída do circuito, número referente ao nó 
-de saída e id(literal)                                               |
+|PORTA LÓGICA N1 N2 N3    |Tipo da porta (AND, OR, NAND, NOR, XOR), os dois primeiros números são referentes aos nós que as entradas estão ligadas, e o ultimo número ao nó da saída |
+|PORTA LÓGICA N1 N2       |Porta NOT, primeiro número é referente ao nó de entrada, e o segundo ao nó de saída |
+|INPUT N1 id              |Entrada do circuito, número referente ao nó de entrada e id(literal) |
+|OUTPUT N1 id             |Saída do circuito, número referente ao nó de saída e id(literal) |
 
  
 
