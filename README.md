@@ -69,14 +69,13 @@ cada uma das possibilidades.
 |OUTPUT 7 S|
 
 2.**Circuito Exemplo**
+A figura a seguir mostra o circuito utilizado como exemplo para teste do projeto.
 
 <img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/Circuito.jpeg" alt="Exemplo">
 
-Circuito utilizado como exemplo para teste do projeto.
-
-
 
 3.**Compilando e executando o código:**
+As figuras a seguir mostram o passo a passo para compilar e executar o código.
 
 <img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/compilando.PNG" alt="compilando">
 
