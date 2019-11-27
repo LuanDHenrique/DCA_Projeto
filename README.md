@@ -50,7 +50,8 @@ circuito está localizado.
 ### Exemplo:
 1. **Arquivo**
 
-`|CIRCUIT Exemplo|
+|CIRCUIT Exemplo|
+|---------------|
 |INPUT 1 A|
 |INPUT 2 B|
 |INPUT 3 C|
@@ -58,7 +59,7 @@ circuito está localizado.
 |OR 2 3 5|
 |XOR 4 5 6|
 |AND 5 6 7|
-|OUTPUT 7 S|`
+|OUTPUT 7 S|
 
 
 
