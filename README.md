@@ -29,7 +29,6 @@ ao mesmo.
 |INPUT N1 id              |Entrada do circuito, número referente ao nó de entrada e id(literal) |
 |OUTPUT N1 id             |Saída do circuito, número referente ao nó de saída e id(literal) |
 
- 
 
 Para compilar e executar o código foi utilizado o GCC, antes
 de tudo, verifique se você está no diretório na qual os arquivos
@@ -47,3 +46,20 @@ comandos utilizados foram os seguintes:
 Após executar o arquivo com o código, o programa solicitará que
 você insira o local na qual o arquivo com as especificações do
 circuito está localizado.
+
+###Exemplo:
+1.**Arquivo**
+`CIRCUIT Exemplo
+INPUT 1 A
+INPUT 2 B
+INPUT 3 C
+AND 1 2 4
+OR 2 3 5
+XOR 4 5 6
+AND 5 6 7
+OUTPUT 7 S`
+
+2.Compilando e executando o código
+![compilando](
+
+
