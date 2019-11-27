@@ -73,7 +73,7 @@ cada uma das possibilidades.
 
 3.Compilando e executando o código:
 
-<img src="https://imgur.com/rNQcuNY" alt="compilando">
+![alt text](https://imgur.com/rNQcuNY "Compilando")
 
 <img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
 
