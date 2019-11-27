@@ -68,12 +68,14 @@ cada uma das possibilidades.
 
 2.**Circuito Exemplo**
 
-<img src="C:\Users\Luan Henrique\Desktop\Circuito_Exemplo.jpeg" alt="Exemplo">
+<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/Circuito_Exemplo.jpeg" alt="Exemplo">
+
+Circuito utilizado como exemplo para teste do projeto.
 
 
 3.Compilando e executando o código:
 
-![alt text](https://imgur.com/rNQcuNY "Compilando")
+<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/compilando.PNG" alt="compilando">
 
 <img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/executando.PNG" alt="executando">
 
