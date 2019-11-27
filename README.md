@@ -72,7 +72,7 @@ cada uma das possibilidades.
 
 3.Compilando e executando o código:
 
-<img src="C:\Users\Luan Henrique\Desktop\compilando.png" alt="compilando">
+<img src="https://drive.google.com/drive/folders/1QfA-_ZKy0KxSqykHmQAH6l1b8fUpIyJx.png" alt="compilando">
 
 <img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
 
