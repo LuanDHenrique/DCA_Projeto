@@ -71,7 +71,7 @@ cada uma das possibilidades.
 
 2.**Circuito Exemplo**
 
-<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/d79b21e72adae94275b48873f8036d4d2cd4f819/Circuito_Exemplo.jpeg" alt="Exemplo">
+<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/Circuito_Exemplo.jpeg" alt="Exemplo">
 
 Circuito utilizado como exemplo para teste do projeto.
 
