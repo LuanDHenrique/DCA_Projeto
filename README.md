@@ -61,5 +61,8 @@ circuito está localizado.
 |AND 5 6 7|
 |OUTPUT 7 S|
 
+2.Compilando e executando o código
+![compilando](C:\Users\Luan Henrique\Desktop\Alg e Logica em Programação\Projeto\compilando.png)
+
 
 
