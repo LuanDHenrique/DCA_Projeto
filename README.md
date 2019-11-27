@@ -3,10 +3,10 @@
 ## Solucionador de Circuitos Lógicos
 
 O projeto tem a função de construir uma tabela-verdade a
-partir da leitura de um arquivo contendo as especificações 
-do circuito, ou seja, o número de entradas e de saídas, a
-quantidade e os tipos das portas lógicas, e as conexões
-de entradas e saídas, tanto do circuito como das portas
+partir da leitura de um arquivo em formato de texto contendo 
+as especificações do circuito, ou seja, o número de entradas 
+e de saídas, a quantidade e os tipos das portas lógicas, e as 
+conexões de entradas e saídas, tanto do circuito como das portas
 lógicas.
 
 ### Manual 
@@ -46,6 +46,9 @@ comandos utilizados foram os seguintes:
 Após executar o arquivo com o código, o programa solicitará que
 você insira o local na qual o arquivo com as especificações do
 circuito está localizado.
+Depois de adicionado o arquivo, ele será lido pelo programa que 
+em sequida imprimi na tela a tabela-verdade com a solução para 
+cada uma das possibilidades.
 
 ### Exemplo:
 1. **Arquivo**
@@ -62,12 +65,12 @@ circuito está localizado.
 |OUTPUT 7 S|
 
 2.**Circuito Exemplo**
-<img src="C:\Users\Luan\ Henrique\Desktop\Circuito_Exemplo.jpeg" alt="Exemplo">
+<img src="C:\Users\Luan Henrique\Desktop\Circuito_Exemplo.jpeg" alt="Exemplo">
 
 
 3.Compilando e executando o código:
-<img src="C:\Users\Luan\ Henrique\Desktop\compilando.png" alt="compilando">
+<img src="C:\Users\Luan Henrique\Desktop\compilando.png" alt="compilando">
 
-<img src="C:\Users\Luan\ Henrique\Desktop\executando.png" alt="executando">
+<img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
 
 
