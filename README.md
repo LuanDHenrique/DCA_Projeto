@@ -62,12 +62,12 @@ circuito está localizado.
 |OUTPUT 7 S|
 
 2.**Circuito Exemplo**
-<img src="C:/Users/Luan Henrique/Desktop/Circuito_Exemplo.jpeg" alt="Exemplo">
+<img src="C:\Users\Luan Henrique\Desktop\Circuito_Exemplo.jpeg" alt="Exemplo">
 
 
 3.Compilando e executando o código:
-<img src="C:/Users/Luan Henrique/Desktop/compilando.png" alt="compilando">
+<img src="C:\Users\Luan Henrique\Desktop\compilando.png" alt="compilando">
 
-<img src="C:/Users/Luan Henrique/Desktop/executando.png" alt="executando">
+<img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
 
 
