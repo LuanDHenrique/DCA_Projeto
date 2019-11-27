@@ -63,7 +63,7 @@ circuito está localizado.
 
 2.Compilando e executando o código
 ![compilando][logo]
-[logo]: C:\Users\Luan Henrique\Desktop\compilando.png "compilando"
+[logo]: C:\Users\Luan Henrique\Desktop\compilando.PNG "compilando"
 
 
 
