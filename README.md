@@ -61,7 +61,10 @@ circuito está localizado.
 |AND 5 6 7|
 |OUTPUT 7 S|
 
-2.Compilando e executando o código
-<img src="C:/Users/Luan Henrique/Desktop/compilando.png" alt="compilando" style="max-width:100%;">
+2.Compilando e executando o código:
+<img src="C:/Users/Luan Henrique/Desktop/compilando.png" alt="compilando">
+
+<img src="C:/Users/Luan Henrique/Desktop/executando.png" alt="executando">
+
 
 
