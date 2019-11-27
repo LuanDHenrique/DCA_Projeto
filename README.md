@@ -50,15 +50,15 @@ circuito está localizado.
 ### Exemplo:
 1. **Arquivo**
 
-`CIRCUIT Exemplo
-INPUT 1 A
-INPUT 2 B
-INPUT 3 C
-AND 1 2 4
-OR 2 3 5
-XOR 4 5 6
-AND 5 6 7
-OUTPUT 7 S`
+`|CIRCUIT Exemplo|
+|INPUT 1 A|
+|INPUT 2 B|
+|INPUT 3 C|
+|AND 1 2 4|
+|OR 2 3 5|
+|XOR 4 5 6|
+|AND 5 6 7|
+|OUTPUT 7 S|`
 
 
 
