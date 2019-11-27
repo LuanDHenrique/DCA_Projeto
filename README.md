@@ -1,4 +1,5 @@
-﻿# Projeto Unidade 3
+﻿
+# Projeto Unidade 3
 
 ## Solucionador de Circuitos Lógicos
 
@@ -72,7 +73,7 @@ cada uma das possibilidades.
 
 3.Compilando e executando o código:
 
-<img src="https://drive.google.com/drive/folders/1QfA-_ZKy0KxSqykHmQAH6l1b8fUpIyJx.png" alt="compilando">
+<img src="https://imgur.com/rNQcuNY" alt="compilando">
 
 <img src="C:\Users\Luan Henrique\Desktop\executando.png" alt="executando">
 
