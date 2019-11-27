@@ -1,5 +1,4 @@
-﻿
-# Projeto Unidade 3
+﻿# Projeto Unidade 3
 
 ## Solucionador de Circuitos Lógicos
 
@@ -71,7 +70,7 @@ cada uma das possibilidades.
 
 2.**Circuito Exemplo**
 
-<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/Circuito_Exemplo.jpeg" alt="Exemplo">
+<img src="https://github.com/LuanDHenrique/DCA_Projeto/blob/master/Circuito.jpeg" alt="Exemplo">
 
 Circuito utilizado como exemplo para teste do projeto.
 
